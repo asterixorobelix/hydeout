@@ -14,6 +14,6 @@ Unfortunately, there were a number of teething problems, as documented [here](ht
 
 Frustrated, I decided to give Jekyll a try. After a bit of research, I found a [great starting point for Jekyll](https://github.com/barryclark/jekyll-now).
 
-it would have been cool to have [tags for each post](https://blog.meinside.pe.kr/Adding-tag-cloud-and-archives-page-to-Jekyll/) or a [Tag cloud](https://www.stefan.lu/blog/tag-cloud-in-jekyll-no-plugins/), but I wasnt able to get either of them running.
+it would have been cool to have [tags for each post](https://blog.meinside.pe.kr/Adding-tag-cloud-and-archives-page-to-Jekyll/) or a [Tag cloud](https://www.stefan.lu/blog/tag-cloud-in-jekyll-no-plugins/), but I wasnt able to get either of them running. In the end, I just forked [someone else's Jekyll Github repo](https://github.com/fongandrew/hydeout) and used it as my own.
 
 If you're reading this, then I guess that I managed to get everything running!
