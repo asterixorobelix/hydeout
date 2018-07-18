@@ -7,3 +7,4 @@ I recently started building a .net core web api for a personal xamarin project. 
 
 Thankfully, [SharpProxy](https://github.com/jocull/SharpProxy), can do most of the work for you. I was able to hit breakpoints in my api code from the android emulator. Here is a[Tutorial](https://www.barelycompetent.co.za/debugging-your-rest-service-from-your-emulator-device-using-sharpproxy/).
 
+BTW: two other more extensive options are [ngrok](https://ngrok.com/product) and [iisexpress-proxy](https://github.com/icflorescu/iisexpress-proxy)
