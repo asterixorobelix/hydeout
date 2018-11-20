@@ -10,8 +10,11 @@ Thankfully, [SharpProxy](https://github.com/jocull/SharpProxy), can do most of t
 # Executive summary
 
 APP_BASE_API_URL = "http://YOUR_IP_ADDRESS:5000/";
+
 Launch API and check port number. Eg - http://localhost:8888/
+
 SharpProxy - 
+
 Enter your ip address
 External port: 5000
 Internal port: bit after localhost in locally hosted api url (eg 8888)
