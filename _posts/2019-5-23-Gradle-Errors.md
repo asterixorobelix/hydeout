@@ -8,5 +8,8 @@ Recently, I had an issue where my Android Studio build was failing with warnings
 
 A nice trick is to run the build command from the command line, in order to get more verbose error logging. Navigate to the project folder containing the Bradley folder. 
 
-Then: ./gradlew assembleBuild
+Then, on a Mac:
+
+```
+./gradlew assembleBuild
 ```
