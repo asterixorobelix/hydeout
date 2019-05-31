@@ -13,3 +13,10 @@ Then, on a Mac:
 ```
 ./gradlew assembleBuild
 ```
+
+or
+
+
+```
+./gradlew build --stacktrace
+```
