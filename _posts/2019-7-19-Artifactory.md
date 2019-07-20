@@ -72,6 +72,7 @@ artifactory {
     }
 }
 ```
+Where the ip.address in contextUrl = 'http://localhost:9090' or 192.1345.456:90 or www.myArtifactoryServer.com or whatever.
 
 You should then be able to write the following command in the command line:
 ``` gradle build artifactoryPublish ```
@@ -80,3 +81,19 @@ if successful, you can refresh the locally hosted artifactory website and see yo
 ![Successfully uploaded artifact](https://drive.google.com/uc?export=view&id=13ncc45M5T9OgbBnBgPJTQkuM_Bs8A4pl)
 
 Jeroen also covers some more [advanced Artifactory customizations](https://jeroenmols.com/blog/2015/08/13/artifactory2/), which is also worth a read.
+
+In order to use your newly uploded lib add the following to your build.gradle:
+
+```
+repositories {
+    mavenCentral()
+    maven { url "http://ip.address/artifactory/libs-release-local" }
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile 'org.processing:core:3.3.7'
+    compile 'asterixorobelix.makersweet:input.output.applets:1.0.1' //in the format: groupId:artifactId:version
+}
+```
