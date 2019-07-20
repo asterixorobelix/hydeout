@@ -31,13 +31,43 @@ The publishing field in your build.gradle needs to look like this:
 ```
 publishing {
     publications {
-        aar(MavenPublication) {
+        javaMaven(MavenPublication) {
             groupId packageName
             version = libraryVersion
             artifactId project.getName()
 
-            // Tell maven to prepare the generated "*.aar" file for publishing
-            artifact("$buildDir/libs/${project.getName()}.jar")
+            // Tell maven to prepare the generated "*.jar" file for publishing
+            artifact("$buildDir/libs/${project.getName()}-${version}.jar")
+        }
+    }
+}
+```
+
+One thing to note is that you need to create a local repository in the Artifactory UI with the name as specified in your repoKey field of the artifactory section of your build.gradle.
+![Creating a new local repository in the locally hosted Artifactory](https://drive.google.com/uc?export=view&id=1cSoNgduatnlc7028ViF8DVu2Hy7_QjqA)
+
+So, in the example below a repository with the name ```libs-release-local``` needs to be created.
+
+```
+artifactory {
+    contextUrl = 'http://ip.address/artifactory'
+    publish {
+        repository {
+            // The Artifactory repository key to publish to
+            repoKey = 'libs-release-local'
+
+            username = "user_name"
+            password = "user_password"
+        }
+        defaults {
+            // Tell the Artifactory Plugin which artifacts should be published to Artifactory.
+            publications('javaMaven')
+            publishArtifacts = true
+
+            // Properties to be attached to the published artifacts.
+            properties = ['qa.level': 'basic', 'dev.team': 'core']
+            // Publish generated POM files to Artifactory (true by default)
+            publishPom = true
         }
     }
 }
@@ -47,5 +77,6 @@ You should then be able to write the following command in the command line:
 ``` gradle build artifactoryPublish ```
 
 if successful, you can refresh the locally hosted artifactory website and see your artifact there.
+![Successfully uploaded artifact](https://drive.google.com/uc?export=view&id=13ncc45M5T9OgbBnBgPJTQkuM_Bs8A4pl)
 
 Jeroen also covers some more [advanced Artifactory customizations](https://jeroenmols.com/blog/2015/08/13/artifactory2/), which is also worth a read.
