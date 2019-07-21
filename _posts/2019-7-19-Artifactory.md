@@ -80,7 +80,7 @@ You should then be able to write the following command in the command line:
 if successful, you can refresh the locally hosted artifactory website and see your artifact there.
 ![Successfully uploaded artifact](https://drive.google.com/uc?export=view&id=13ncc45M5T9OgbBnBgPJTQkuM_Bs8A4pl)
 
-Jeroen also covers some more [advanced Artifactory customizations](https://jeroenmols.com/blog/2015/08/13/artifactory2/), which is also worth a read.
+Jeroen also covers some more [advanced Artifactory customizations](https://jeroenmols.com/blog/2015/08/13/artifactory2/), which is also worth a read. [This post](https://medium.com/@Commit451/hosting-a-private-gradle-dependency-for-free-b77572ffbeab) also shows how to host Artifactory in the cloud for free!
 
 In order to use your newly uploded lib add the following to your build.gradle:
 
