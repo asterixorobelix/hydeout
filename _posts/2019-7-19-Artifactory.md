@@ -97,3 +97,5 @@ dependencies {
     compile 'asterixorobelix.makersweet:input.output.applets:1.0.1' //in the format: groupId:artifactId:version
 }
 ```
+
+If you need to restart your docker container (if you've restarted your machine etc) use ```docker container start containerName``` eg: ```docker container start artifactory```
