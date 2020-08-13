@@ -29,6 +29,7 @@ Basically, you still specify the png images, but the OS will prefer launcher ico
 
 * [Launch Icon creator](https://jgilfelt.github.io/AndroidAssetStudio/icons-launcher.html)
 * [Png to svg converter](https://www.pngtosvg.com/)
+* [App store feature graphic generator](https://www.norio.be/android-feature-graphic-generator/)
 * [Free SVG to android vector converter](https://inloop.github.io/svg2android/)
 * [Paid SVG to android vector converter](https://svg2vector.com/)
 

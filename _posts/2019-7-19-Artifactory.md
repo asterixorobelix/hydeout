@@ -2,6 +2,7 @@
 layout: post
 title: Use Artifactory for private library archiving
 tags: Artifactory Gradle
+category: Software
 ---
 I have recently started developing my own Kotlin libraries. I wanted a nice way of managing these library artifacts. [Jeroen Mols](https://jeroenmols.com/blog/2015/08/06/artifactory/) has a nice discussion of how to push Gradle builds to your own locally hosted [Artifactory](https://jfrog.com/artifactory/) server (which can all be done for free).
 

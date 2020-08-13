@@ -2,6 +2,7 @@
 layout: post
 title: Mach3 CNC machine wiring
 tags: CNC hardware electronics
+category: Machines
 ---
 I've been struggling to work out the wiring for the [TB6560 stepper motor driver](https://www.diyelectronics.co.za/store/stepper-motor-drivers/1393-tb6560-stepper-motor-driver.html) and the [Mach3 parallel port breakout board](http://www.communica.co.za/catalog/Details/P3942944907).
 

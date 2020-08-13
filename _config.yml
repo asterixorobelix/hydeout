@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            asterixorobelix.blog
-tagline:          'c# developer holding a power tool'
-description:      'c# developer holding a power tool'
+title:            asterixorobelix
+tagline:          'mobile software developer holding a power tool'
+description:      'developer with a power tool'
 url:              https://asterixorobelix.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

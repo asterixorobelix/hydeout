@@ -2,6 +2,7 @@
 layout: post
 title: Finding Gradle Errors
 tags: gotchas Software Gradle Android Studio
+category: Software
 ---
 
 Recently, I had an issue where my Android Studio build was failing with warnings, but no errors being shown in the build display.
