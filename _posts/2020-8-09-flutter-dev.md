@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flutter dev!
-tags: software, Flutter
+tags: software Flutter
 category: Software
 ---
 ![Flutter](https://www.becompany.ch/blog/assets/2019-06-17-creating-flutter-rss-reader/android_ios.png)

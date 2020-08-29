@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android dev!
-tags: software, Android
+tags: software Android
 category: Software
 ---
 ![Android](https://img.favpng.com/5/10/23/android-logo-icon-png-favpng-Uv2JWf9XFEXampUMn5wPsbLHz.jpg)
