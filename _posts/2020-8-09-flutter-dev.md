@@ -37,3 +37,4 @@ The following things are worth paying for:
 * [layouts in Flutter](https://flutter.dev/docs/development/ui/layout#common-layout-widgets)
 * [Flutter promoted libraries](https://pub.dev/flutter/favorites)
 * [NoSQL Database - Hive](https://pub.dev/packages/hive)
+* [MVVM example repo](https://github.com/scitbiz/flutter_pokedex)
