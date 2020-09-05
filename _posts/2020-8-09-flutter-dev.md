@@ -30,3 +30,10 @@ If you are going to create your own Android Libraries, then you can use [Jitpack
 ### Putting your money where your mouth is ###
 The following things are worth paying for:
 * [Gitkraken](https://www.gitkraken.com/)
+
+### Reading List
+* [State management](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple)
+* [Popular flutter libs](https://medium.com/better-programming/the-10-best-and-most-liked-flutter-packages-f5813822e118)
+* [layouts in Flutter](https://flutter.dev/docs/development/ui/layout#common-layout-widgets)
+* [Flutter promoted libraries](https://pub.dev/flutter/favorites)
+* [NoSQL Database - Hive](https://pub.dev/packages/hive)
