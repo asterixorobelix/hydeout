@@ -26,6 +26,9 @@ If you are going to create your own Android Libraries, then you can use [Jitpack
 
 ### Dependency injection ###
 
+### App Store marketing material
+[Previewed](https://previewed.app/) lets you make those professional banners.
+
 
 ### Putting your money where your mouth is ###
 The following things are worth paying for:
