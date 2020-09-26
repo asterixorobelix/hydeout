@@ -25,10 +25,13 @@ The easiest setup on a mac uses [homebrew formula] (https://github.com/flschweig
 If you are going to create your own Android Libraries, then you can use [Jitpack](https://jitpack.io) to build your library, so that you can pull it in as a Gradle ``implementation`` dependency. It works best with Github, especially now that they have free private repos. If you want Jitpack to build private repos, you need to pay for that service.
 
 ### Dependency injection ###
+I have been using [getIt](https://pub.dev/packages/get_it)
 
 ### App Store marketing material
 [Previewed](https://previewed.app/) lets you make those professional banners.
 
+### Semi colons
+I find the Dart requirement for semi-colons at the end of every line pretty annoying, but making it optional seems to be a low priority. However, if you use intellijIdea for your flutter dev, you can [cmd+shft+enter](https://github.com/dart-lang/language/issues/69#issuecomment-629820487) and the semi colon will be auto-completed for you.
 
 ### Putting your money where your mouth is ###
 The following things are worth paying for:
