@@ -34,4 +34,5 @@ Some things to note:
 * Implementing the iOS UI natively may be non trivial, particularly if the design is complex.
 
 ### Getting started
-I found it helpful to watch this video by [Kevin Galligan](https://www.droidcon.com/media-detail?video=481183953) and [Ellen Shapiro](https://www.youtube.com/watch?v=JHUY1Ckmo64)
+I found it helpful to watch this video by [Kevin Galligan](https://www.droidcon.com/media-detail?video=481183953) and [Ellen Shapiro](https://www.youtube.com/watch?v=JHUY1Ckmo64).
+A reading list of interesting stuff to get you started is [here](https://www.one-tab.com/page/97BSLOTrQveaEj5eW33lEA)
