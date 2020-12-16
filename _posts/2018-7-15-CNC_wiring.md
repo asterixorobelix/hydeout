@@ -20,3 +20,7 @@ How to wire up the TB6560 stepper driver
 
 About the [breakout board](https://youtu.be/0D2uYMVrglw)
 How to [test the parallel port](https://youtu.be/uglCm_qsojk)
+
+### Linux CNC
+[This video](https://www.youtube.com/watch?v=F4xHCwtaS3w) is helpful in getting setup with [Linux CNC](https://linuxcnc.org/docs/2.8/html/)
+
