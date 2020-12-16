@@ -24,3 +24,6 @@ How to [test the parallel port](https://youtu.be/uglCm_qsojk)
 ### Linux CNC
 [This video](https://www.youtube.com/watch?v=F4xHCwtaS3w) is helpful in getting setup with [Linux CNC](https://linuxcnc.org/docs/2.8/html/)
 
+I got a result of 26125 ns on the base thread from the Linux latency test.
+
+This [steps per mm calculator](https://blog.prusaprinters.org/calculator_3416/#stepspermmlead) is useful for configuring LinuxCnc.
