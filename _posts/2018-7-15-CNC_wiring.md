@@ -27,3 +27,10 @@ How to [test the parallel port](https://youtu.be/uglCm_qsojk)
 I got a result of 26125 ns on the base thread from the Linux latency test.
 
 This [steps per mm calculator](https://blog.prusaprinters.org/calculator_3416/#stepspermmlead) is useful for configuring LinuxCnc.
+
+### CAD
+I use Solidworks
+
+### CAM
+* [CamBam](http://www.cambam.info/downloads/) - $150
+* [MeshCam](http://www.grzsoftware.com/) -$250
