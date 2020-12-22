@@ -4,6 +4,8 @@ title: CNC machine
 tags: CNC hardware electronics
 category: Machines
 ---
+![Writing Image](https://drive.google.com/uc?export=view&id=17JBbc0t2IA4Nqgqf68PRvaYJb4fYev4o)
+
 ### Wiring
 I've been struggling to work out the wiring for the [TB6560 stepper motor driver](https://www.diyelectronics.co.za/store/stepper-motor-drivers/1393-tb6560-stepper-motor-driver.html) and the [Mach3 parallel port breakout board](http://www.communica.co.za/catalog/Details/P3942944907).
 
