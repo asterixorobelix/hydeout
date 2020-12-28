@@ -31,8 +31,10 @@ I got a result of 26125 ns on the base thread from the Linux latency test.
 This [steps per mm calculator](https://blog.prusaprinters.org/calculator_3416/#stepspermmlead) is useful for configuring LinuxCnc.
 
 ### CAD
-I use Solidworks
+I use Solidworks, an alternative might be [freecad](https://www.freecadweb.org/).
 
 ### CAM
-* [CamBam](http://www.cambam.info/downloads/) - $150
+* [CamBam](http://www.cambam.info/downloads/) - $150, but you can download an [older version](https://www.estlcam.de/changelog.php)
 * [MeshCam](http://www.grzsoftware.com/) -$250
+* [ESTLCAM](https://www.estlcam.de/index.php) - $59, but you can download an [older version](https://www.estlcam.de/changelog.php)
+* [DXF2Gcode]https://sourceforge.net/projects/dxf2gcode/ - Free!
