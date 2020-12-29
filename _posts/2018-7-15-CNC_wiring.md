@@ -34,7 +34,16 @@ This [steps per mm calculator](https://blog.prusaprinters.org/calculator_3416/#s
 I use Solidworks, an alternative might be [freecad](https://www.freecadweb.org/).
 
 ### CAM
-* [CamBam](http://www.cambam.info/downloads/) - $150, but you can download an [older version](https://www.estlcam.de/changelog.php)
-* [MeshCam](http://www.grzsoftware.com/) -$250
+CAM programs take your CAD model and, together with information such as bit size, material being cut, etc, use it to create g-code. CAM is probably the biggest issue in this whole workflow. There is a distinct lack of options. In order of preference below.
+
+#### 2D 
 * [ESTLCAM](https://www.estlcam.de/index.php) - $59, but you can download an [older version](https://www.estlcam.de/changelog.php)
 * [DXF2Gcode]https://sourceforge.net/projects/dxf2gcode/ - Free!
+* [Easel](https://www.inventables.com/technologies/easel) - Free, very basic but easy to use.
+
+#### 3D
+* [MeshCam](http://www.grzsoftware.com/) -$250
+* [Carbide Create](https://carbide3d.com/carbidecreate/) - Free
+* [CamBam](http://www.cambam.info/downloads/) - $150, but you can download an older version
+* [Web based](https://cam.openbuilds.com/#) and [this](https://cnc.js.org/) - Free
+* [PyCam](http://pycam.sourceforge.net/) -linux only at the moment - Free
