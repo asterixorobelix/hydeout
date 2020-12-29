@@ -31,19 +31,22 @@ I got a result of 26125 ns on the base thread from the Linux latency test.
 This [steps per mm calculator](https://blog.prusaprinters.org/calculator_3416/#stepspermmlead) is useful for configuring LinuxCnc.
 
 ### CAD
-I use Solidworks, an alternative might be [freecad](https://www.freecadweb.org/).
+I use Solidworks, an alternative might be [freecad](https://www.freecadweb.org/), since it has CAM built in. Fusion360 also has built in CAM, apparently.
 
 ### CAM
 CAM programs take your CAD model and, together with information such as bit size, material being cut, etc, use it to create g-code. CAM is probably the biggest issue in this whole workflow. There is a distinct lack of options. In order of preference below.
 
 #### 2D 
 * [ESTLCAM](https://www.estlcam.de/index.php) - $59, but you can download an [older version](https://www.estlcam.de/changelog.php)
+* [bCNC](https://github.com/vlachoudis/bCNC) - free
 * [DXF2Gcode]https://sourceforge.net/projects/dxf2gcode/ - Free!
 * [Easel](https://www.inventables.com/technologies/easel) - Free, very basic but easy to use.
+* [OpenBuildsCAM](https://cam.openbuilds.com/#) - Free, but doesnt work very well with DXF
+* [Carbide Create](https://carbide3d.com/carbidecreate/) - Free, but doesnt work very well with DXF
+* [Web based](https://cam.openbuilds.com/#) and [this](https://cnc.js.org/) - Free
 
 #### 3D
-* [MeshCam](http://www.grzsoftware.com/) -$250
-* [Carbide Create](https://carbide3d.com/carbidecreate/) - Free
+* [MeshCam](http://www.grzsoftware.com/) - $250
+* [HSMWorks](https://www.autodesk.com/products/hsmworks/overview?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1) CAM addon for Solidworks - $495 per year
 * [CamBam](http://www.cambam.info/downloads/) - $150, but you can download an older version
-* [Web based](https://cam.openbuilds.com/#) and [this](https://cnc.js.org/) - Free
 * [PyCam](http://pycam.sourceforge.net/) -linux only at the moment - Free
