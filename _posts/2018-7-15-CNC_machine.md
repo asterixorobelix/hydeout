@@ -40,7 +40,6 @@ From my reading, the options are, in order of preference below.
 
 #### 2D 
 * [ESTLCAM](https://www.estlcam.de/index.php) - $59, but you can download an [older version](https://www.estlcam.de/changelog.php)
-* [PathCam](https://github.com/xenovacivus/PathCAM) - free
 * [CAMLAB](http://camlab.sienci.com/camlab) and [Kiri](https://grid.space/kiri/) - Free
 * [bCNC](https://github.com/vlachoudis/bCNC) - free
 * [DXF2Gcode]https://sourceforge.net/projects/dxf2gcode/ - Free!
@@ -48,6 +47,9 @@ From my reading, the options are, in order of preference below.
 * [OpenBuildsCAM](https://cam.openbuilds.com/#) - Free, but doesnt work very well with DXF
 * [Carbide Create](https://carbide3d.com/carbidecreate/) - Free, but doesnt work very well with DXF
 * [Web based](https://cam.openbuilds.com/#) and [this](https://cnc.js.org/) - Free
+* [PathCam](https://github.com/xenovacivus/PathCAM) - free, didnt work with solidworks STL
+
+EstlCam or Kiri.
 
 #### 3D
 * [MeshCam](http://www.grzsoftware.com/) - $250
@@ -56,6 +58,8 @@ From my reading, the options are, in order of preference below.
 * [Freemill plugin for Solidworks](https://mecsoft.com/freemill-for-solidworks-free-cam-software-in-solidworks/) - upwards of $600, depending on version
 * [CamBam](http://www.cambam.info/downloads/) - $150, but you can download an older version
 * [PyCam](http://pycam.sourceforge.net/) - linux only at the moment - Free
+
+Cambam or meshcam, based on price.
 
 ### Alternatives
 
