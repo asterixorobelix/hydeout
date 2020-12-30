@@ -40,7 +40,7 @@ From my reading, the options are, in order of preference below.
 
 #### 2D 
 * [ESTLCAM](https://www.estlcam.de/index.php) - $59, but you can download an [older version](https://www.estlcam.de/changelog.php)
-* [CAMLAB](http://camlab.sienci.com/camlab) and [Kiri](https://grid.space/kiri/) - Free
+* [CAMLAB](http://camlab.sienci.com/camlab) and [Kiri](https://grid.space/kiri/), some [starter tutorial](https://www.youtube.com/watch?v=KDhMujKX1QQ) - Free
 * [bCNC](https://github.com/vlachoudis/bCNC) - free
 * [DXF2Gcode](https://sourceforge.net/projects/dxf2gcode/) - Free!
 * [Easel](https://www.inventables.com/technologies/easel) - Free, very basic but easy to use.
