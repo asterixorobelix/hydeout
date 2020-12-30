@@ -42,7 +42,7 @@ From my reading, the options are, in order of preference below.
 * [ESTLCAM](https://www.estlcam.de/index.php) - $59, but you can download an [older version](https://www.estlcam.de/changelog.php)
 * [CAMLAB](http://camlab.sienci.com/camlab) and [Kiri](https://grid.space/kiri/) - Free
 * [bCNC](https://github.com/vlachoudis/bCNC) - free
-* [DXF2Gcode]https://sourceforge.net/projects/dxf2gcode/ - Free!
+* [DXF2Gcode](https://sourceforge.net/projects/dxf2gcode/) - Free!
 * [Easel](https://www.inventables.com/technologies/easel) - Free, very basic but easy to use.
 * [OpenBuildsCAM](https://cam.openbuilds.com/#) - Free, but doesnt work very well with DXF
 * [Carbide Create](https://carbide3d.com/carbidecreate/) - Free, but doesnt work very well with DXF
