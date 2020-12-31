@@ -48,6 +48,7 @@ From my reading, the options are, in order of preference below.
 * [CAMLAB](http://camlab.sienci.com/camlab) and [Kiri](https://grid.space/kiri/), some [starter tutorial](https://www.youtube.com/watch?v=KDhMujKX1QQ) - Free
 * [bCNC](https://github.com/vlachoudis/bCNC) - free
 * [DXF2Gcode](https://sourceforge.net/projects/dxf2gcode/) - Free!
+* [MakerCAM](https://wiki.shapeoko.com/index.php/MakerCAM), [Github](https://github.com/shapeoko/makercam), [basic tutorial](https://www.makercam.com/tutorial.html) - Free
 * [Easel](https://www.inventables.com/technologies/easel) - Free, very basic but easy to use.
 * [OpenBuildsCAM](https://cam.openbuilds.com/#) - Free, but doesnt work very well with DXF
 * [Carbide Create](https://carbide3d.com/carbidecreate/) - Free, but doesnt work very well with DXF
@@ -81,8 +82,14 @@ Expensive, but at least they do the job, some include software for toolchain fro
 * [Bulkman c-beam rip off](https://bulkman3d.com/product/cbxl01/) - $233
 
 #### Build
-Noise, dust, frustration! Not to be understestimated! Making something stiff, square and repeatable is not a small task. The smaller, the better here; both for stiffness and to build an enclosure. To be honest, unless you already have access to precision tools, it may be better to build your own lasercutter or plasma cutter instead. In order of preference:
+Noise, dust, frustration! Not to be understestimated! Making something stiff, square and repeatable is not a small task. The smaller, the better here; both for stiffness and to build an enclosure. 
+
+To be honest, unless you already have access to precision tools, it may be better to build your own lasercutter or plasma cutter instead. In order of preference:
 
 * Cast from [epoxy granite](https://youtu.be/4aBVAbfxLJw?t=491) - at least this allows for taking your time making a mould and making sure its all square. Once its set, no take backsies though! [Here](https://youtu.be/2woA1BxZ7Pg) and [here](https://www.model-engineer.co.uk/forums/postings.asp?th=139042). Will also need quality components.
 * Weld a steel frame. You will need to spend much time grinding and lapping to make it flat and much time making it square. Will probably require [granite parallels](https://www.starrett.com/category/precision-measuring-tools/granite-parallels/130207#currentPage=1&displayMode=grid&itemsPerPage=12&sortBy=wp/asc)
 * Aluminium extrusion frame - these are the most accessible and there are [plenty designs](https://openbuilds.com/) out there. The few which I have tried have been almost commically flexible when milling material, so design needs to be bulletProof. Perhaps, these designs are worth considering: [here](https://wikifactory.com/+mekanika/mekanika-cnc-router) and [here](https://bulkman3d.com/product/queenbee-pro-cnc-machine-mechanical-kit-upgrade-kit/) or [here](https://gitlab.cba.mit.edu/jakeread/clank)
+
+### Dust Shoe
+Milling is extremely messy. A dust shoe is a necessity and a split one seems like a good idea.
+![Split dust shoe example design](https://static.wixstatic.com/media/bdcd45_a70767520fc2499bbd0daf5a66e4c5bb~mv2.png/v1/fill/w_551,h_551,al_c,q_90,usm_0.66_1.00_0.01/bdcd45_a70767520fc2499bbd0daf5a66e4c5bb~mv2.webp)
