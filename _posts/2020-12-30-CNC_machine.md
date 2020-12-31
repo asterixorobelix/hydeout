@@ -23,6 +23,11 @@ How to wire up the TB6560 stepper driver
 About the [breakout board](https://youtu.be/0D2uYMVrglw)
 How to [test the parallel port](https://youtu.be/uglCm_qsojk)
 
+#### Limit Switches
+![Limit Switches wiring](https://wiki.shapeoko.com/images/1/1c/Generichomeswitches.png)
+
+![Multiple limit Switches wiring](https://forum.shapeoko.com/download/file.php?id=1322)
+
 ### Linux CNC
 [This video](https://www.youtube.com/watch?v=F4xHCwtaS3w) is helpful in getting setup with [Linux CNC](https://linuxcnc.org/docs/2.8/html/)
 
@@ -34,7 +39,7 @@ This [steps per mm calculator](https://blog.prusaprinters.org/calculator_3416/#s
 I use Solidworks, an alternative might be [freecad](https://www.freecadweb.org/), since it has CAM built in. Fusion360 also has built in CAM, apparently. [Onshape](https://www.onshape.com/en/products/free) looks like a good option, it has a free version for openSource hobbyists and integrates with [kiri](https://www.youtube.com/watch?v=AbbZjj5FMGE).
 
 ### CAM
-CAM programs take your CAD model and, together with information such as bit size, material being cut, etc, use it to create g-code. CAM is probably the biggest issue in this whole workflow. There is a distinct lack of options. There is a [wiki](https://wiki.shapeoko.com/index.php/CAM) which has some potential options.
+CAM programs take your CAD model and, together with information such as bit size, material being cut, etc, use it to create g-code. CAM is probably the biggest issue in this whole workflow. There is a distinct lack of options. There is a [wiki](https://wiki.shapeoko.com/index.php/CAM) which has some potential options. This [toolchain wizard](https://sienci.com/dmx-longmill/choosing-software/) is a helpful tool for some of the options.
 
 From my reading, the options are, in order of preference below.
 
