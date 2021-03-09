@@ -9,12 +9,12 @@ category: Software
 Just noting down some useful things for Android Dev
 
 ### Code reviews ###
-* https://saket.me/great-teams-merge-fast/
-* https://blog.danlew.net/2020/04/15/the-logaf-scale/
-* https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/
+* [Merge Fast](https://saket.me/great-teams-merge-fast/)
+* [LOGAF](https://blog.danlew.net/2020/04/15/the-logaf-scale/)
+* [Dont nitpick](https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/)
 
 ### Architecture ###
-* https://phauer.com/2020/package-by-feature/
-* https://martinfowler.com/bliki/PresentationDomainDataLayering.html
+* [Package by feature](https://phauer.com/2020/package-by-feature/)
+* [Layering](https://martinfowler.com/bliki/PresentationDomainDataLayering.html)
 
 ![layering](https://martinfowler.com/bliki/images/presentationDomainDataLayering/all_top.png)
