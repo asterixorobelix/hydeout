@@ -11,10 +11,12 @@ Just noting down some useful things for Android Dev
 ### Code reviews ###
 * [Merge Fast](https://saket.me/great-teams-merge-fast/)
 * [LOGAF](https://blog.danlew.net/2020/04/15/the-logaf-scale/)
-* [Dont nitpick](https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/)
+* [Don't nitpick](https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/)
 
 ### Architecture ###
 * [Package by feature](https://phauer.com/2020/package-by-feature/)
 * [Layering](https://martinfowler.com/bliki/PresentationDomainDataLayering.html)
 
-![layering](https://martinfowler.com/bliki/images/presentationDomainDataLayering/all_top.png)
+![Feature package example](https://phauer.com/blog/2020/03-package-by-feature/package-by-feature-big-picture.svg)
+
+![Fowler layering](https://martinfowler.com/bliki/images/presentationDomainDataLayering/all_top.png)
