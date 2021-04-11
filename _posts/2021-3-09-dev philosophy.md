@@ -15,6 +15,6 @@ category: Software
 * [Package by feature](https://phauer.com/2020/package-by-feature/)
 * [Layering](https://martinfowler.com/bliki/PresentationDomainDataLayering.html)
 
-![Feature package example](https://phauer.com/blog/2020/03-package-by-feature/package-by-feature-big-picture.svg)
+![Feature package example](https://phauer.com/blog/2020/03-package-by-feature/package-by-feature-big-picture.svg) and ![here](https://medium.com/mobile-app-development-publication/mobile-app-architecture-feature-grouping-vs-functional-grouping-53da05fdc289)
 
 ![Fowler layering](https://martinfowler.com/bliki/images/presentationDomainDataLayering/all_top.png)
