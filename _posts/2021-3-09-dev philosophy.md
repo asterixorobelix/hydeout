@@ -18,3 +18,18 @@ category: Software
 ![Feature package example](https://phauer.com/blog/2020/03-package-by-feature/package-by-feature-big-picture.svg) and ![here](https://medium.com/mobile-app-development-publication/mobile-app-architecture-feature-grouping-vs-functional-grouping-53da05fdc289)
 
 ![Fowler layering](https://martinfowler.com/bliki/images/presentationDomainDataLayering/all_top.png)
+
+### Patterns ###
+* [Robot pattern](https://qbsw.com/taming-your-ui-tests-with-the-robot-pattern/)
+
+
+### Good habits ###
+* [Consistency](https://javascript.plainenglish.io/19-things-i-stole-from-great-developers-85511ff56570)
+* [Bigger picture thinking](https://javascript.plainenglish.io/19-things-i-stole-from-great-developers-85511ff56570)
+* [Overestimate](https://javascript.plainenglish.io/19-things-i-stole-from-great-developers-85511ff56570)
+* [Documentation + code comments](https://javascript.plainenglish.io/19-things-i-stole-from-great-developers-85511ff56570)
+* [Unit Tests](https://javascript.plainenglish.io/19-things-i-stole-from-great-developers-85511ff56570)
+* [Delete code](https://javascript.plainenglish.io/19-things-i-stole-from-great-developers-85511ff56570)
+* [Focus on fundamentals](https://javascript.plainenglish.io/19-things-i-stole-from-great-developers-85511ff56570)
+* [Keep it simple](https://javascript.plainenglish.io/19-things-i-stole-from-great-developers-85511ff56570)
+* [Earn the right to address technical debt by shipping, not the other way around]()
