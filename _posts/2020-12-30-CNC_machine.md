@@ -114,7 +114,7 @@ Milling is extremely messy. A dust shoe is a necessity and a split one seems lik
 
 ### Ball Screw suppliers (SA)
 * [DiyGeek](https://www.diygeek.co.za/product-category/diy-cnc-online-south-africa/ball-screws-online-south-africa/)
-* [3dPrintingStore] (https://www.3dprintingstore.co.za/centurionstore/product-categories/mechanics/ball-screws.html?)
+* [3dPrintingStore](https://www.3dprintingstore.co.za/centurionstore/product-categories/mechanics/ball-screws.html?)
 
 ### Stepper motor suppliers (SA)
 
