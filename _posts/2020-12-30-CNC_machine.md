@@ -76,7 +76,8 @@ Expensive, but at least they do the job, some include software for toolchain fro
 
 * [Bantam desktop machine](https://www.bantamtools.com/machines/desktop-cnc-milling-machine) - $3 600
 * [ShopBot desktop machine](https://www.shopbottools.com/products/desktop) - $7 600
-* [Carbide3d Nomad desktop cnc](https://shop.carbide3d.com/collections/machines/products/nomad-3?variant=32912906289213) - $2 800
+* [Carbide3d Nomad desktop cnc](https://shop.carbide3d.com/products/nomad-3/?variant=32912906354749) - $2 800
+* [ShapeokoPro3](https://shop.carbide3d.com/collections/machines/products/shapeoko-pro-cnc-router?variant=33007028797501) -$ 2600
 * [Cheap milling machine](https://www.adendorff.co.za/product/mac-afric-mini-drillingmilling-machine/) and [CNC conversion kit](https://www.mbbilici.com/index.php?route=product/product&path=57&product_id=63), like [this](https://youtu.be/OY5VUsJ2Gu4) - approx $1 600
 * [Openbuilds-c-beam-machine](https://openbuildspartstore.com/openbuilds-c-beam-machine/) - $700
 * [Openbuilds mini mill](https://openbuildspartstore.com/openbuilds-minimill/) - $550
@@ -100,7 +101,7 @@ Milling is extremely messy. A dust shoe is a necessity and a split one seems lik
 * [Neotronics](https://neotronics.co.za/index.php?route=product/product&path=113_138&product_id=635)
 * [3dPrintingStore](https://www.3dprintingstore.co.za/centurionstore/product-categories/aluminium-t-slot-extrusions/v-slot-profiles.html)
 * [Hobbytronics](https://www.hobbytronics.co.za/c/776/aluminium-profiles)
-* [DiyGeeks](https://www.diygeek.co.za/product-category/aluminium-profiles-online-south-africa/v-slot-profiles-online-south-africa/)
+* [DiyGeeks](https://www.diygeek.co.za/product-category/aluminium-profiles-online-south-africa/v-slot-profiles-online-south-africa/) && [here](https://www.diygeek.co.za/product-category/aluminium-profiles-online-south-africa/)
 * [DiyElectronics](https://www.diyelectronics.co.za/store/404-modular-extrusions?id_category=404&n=43)
 * [CNCDirect](http://www.cncdirect.co.za/htm/profile.html)
 * [Fatbob](http://fatbob.co.za/index.php?route=product/category&path=60)
@@ -115,8 +116,20 @@ Milling is extremely messy. A dust shoe is a necessity and a split one seems lik
 ### Ball Screw suppliers (SA)
 * [DiyGeek](https://www.diygeek.co.za/product-category/diy-cnc-online-south-africa/ball-screws-online-south-africa/)
 * [3dPrintingStore](https://www.3dprintingstore.co.za/centurionstore/product-categories/mechanics/ball-screws.html?)
+* [CNCDirect](http://www.cncdirect.co.za/htm/linear.html)
+* [RSComponents](https://za.rs-online.com/web/c/mechanical-power-transmission/lead-screws-ball-screws-ball-splines/)
 
 ### Stepper motor suppliers (SA)
+* [Netram](https://www.netram.co.za/1580-stepper-motors)
+* [DIYElectronics](https://www.diyelectronics.co.za/store/97-stepper-motors)
 
 ### Stepper motor drivers suppliers (SA)
 * [CNCDirect](http://www.cncdirect.co.za/htm/stepper.html)
+
+### Belts suppliers (SA)
+* [Fatbob](http://fatbob.co.za/index.php?route=product/category&path=61)
+
+### Linear slides suppliers (SA)
+* [RSComponents](https://za.rs-online.com/web/c/bearings-seals/linear-motion/)
+* [DiyGeeks](https://www.diygeek.co.za/product-category/diy-cnc-online-south-africa/guide-rails-online-south-africa/)
+* [3dprintingStore](https://www.3dprintingstore.co.za/centurionstore/product-categories/mechanics/linear-rails.html?)
