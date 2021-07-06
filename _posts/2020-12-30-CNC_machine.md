@@ -41,11 +41,11 @@ I use Solidworks, an alternative might be [freecad](https://www.freecadweb.org/)
 ### CAM
 CAM programs take your CAD model and, together with information such as bit size, material being cut, etc, use it to create g-code. CAM is probably the biggest issue in this whole workflow. There is a distinct lack of options. There is a [wiki](https://wiki.shapeoko.com/index.php/CAM) which has some potential options. This [toolchain wizard](https://sienci.com/dmx-longmill/choosing-software/) is a helpful tool for some of the options.
 
-From my reading, the options are, in order of preference below.
+From my reading, the options are, in order of preference below:
 
 #### 2D 
-* [ESTLCAM](https://www.estlcam.de/index.php) - $59, but you can download an [older version](https://www.estlcam.de/changelog.php)
 * [CAMLAB](http://camlab.sienci.com/camlab) and [Kiri](https://grid.space/kiri/), some [starter tutorial](https://www.youtube.com/watch?v=KDhMujKX1QQ) - Free
+* [ESTLCAM](https://www.estlcam.de/index.php) - $59, but you can download an [older version](https://www.estlcam.de/changelog.php)
 * [bCNC](https://github.com/vlachoudis/bCNC) - free
 * [DXF2Gcode](https://sourceforge.net/projects/dxf2gcode/) - Free!
 * [MakerCAM](https://wiki.shapeoko.com/index.php/MakerCAM), [Github](https://github.com/shapeoko/makercam), [basic tutorial](https://www.makercam.com/tutorial.html) - Free
@@ -55,6 +55,7 @@ From my reading, the options are, in order of preference below.
 * [Web based](https://cam.openbuilds.com/#) and [this](https://cnc.js.org/) - Free
 * [PathCam](https://github.com/xenovacivus/PathCAM) - free, didnt work with solidworks STL
 
+##### Recommendation
 EstlCam or CamLab/Kiri.
 
 #### 3D
@@ -65,6 +66,7 @@ EstlCam or CamLab/Kiri.
 * [CamBam](http://www.cambam.info/downloads/) - $150, but you can download an older version
 * [PyCam](http://pycam.sourceforge.net/) - linux only at the moment - Free
 
+##### Recommendation
 Cambam or meshcam, based on price.
 
 ### Alternatives
@@ -93,3 +95,28 @@ To be honest, unless you already have access to precision tools, it may be bette
 ### Dust Shoe
 Milling is extremely messy. A dust shoe is a necessity and a split one seems like a good idea.
 ![Split dust shoe example design](https://static.wixstatic.com/media/bdcd45_a70767520fc2499bbd0daf5a66e4c5bb~mv2.png/v1/fill/w_551,h_551,al_c,q_90,usm_0.66_1.00_0.01/bdcd45_a70767520fc2499bbd0daf5a66e4c5bb~mv2.webp)
+
+### Aluminium extrusion suppliers (SA)
+* [Neotronics](https://neotronics.co.za/index.php?route=product/product&path=113_138&product_id=635)
+* [3dPrintingStore](https://www.3dprintingstore.co.za/centurionstore/product-categories/aluminium-t-slot-extrusions/v-slot-profiles.html)
+* [Hobbytronics](https://www.hobbytronics.co.za/c/776/aluminium-profiles)
+* [DiyGeeks](https://www.diygeek.co.za/product-category/aluminium-profiles-online-south-africa/v-slot-profiles-online-south-africa/)
+* [DiyElectronics](https://www.diyelectronics.co.za/store/404-modular-extrusions?id_category=404&n=43)
+* [CNCDirect](http://www.cncdirect.co.za/htm/profile.html)
+* [Fatbob](http://fatbob.co.za/index.php?route=product/category&path=60)
+
+### Spindle suppliers (SA)
+* [Neotronics](https://neotronics.co.za/index.php?route=product/category&path=113_115)
+* [3dPrintingStore](https://www.3dprintingstore.co.za/centurionstore/product-categories/cnc/cnc-spindles.html?)
+* [Hobbytronics](https://www.hobbytronics.co.za/c/827/cnc-spindle-motors)
+* [DiyGeeks](https://www.diygeek.co.za/product-category/diy-cnc-online-south-africa/motors/spindle-motors-online-south-africa/)
+* [CncDirect](http://www.cncdirect.co.za/htm/control.html)
+
+### Ball Screw suppliers (SA)
+* [DiyGeek](https://www.diygeek.co.za/product-category/diy-cnc-online-south-africa/ball-screws-online-south-africa/)
+* [3dPrintingStore] (https://www.3dprintingstore.co.za/centurionstore/product-categories/mechanics/ball-screws.html?)
+
+### Stepper motor suppliers (SA)
+
+### Stepper motor drivers suppliers (SA)
+* [CNCDirect](http://www.cncdirect.co.za/htm/stepper.html)
