@@ -20,7 +20,9 @@ In the end, what seemed to help the most was changing settings in the [PrusaSlic
 I got the [Textured powder coated sheet](https://help.prusa3d.com/en/article/textured-steel-sheet_196534), which can make the first layer look better. Advice on how to use it is [here](https://blog.prusaprinters.org/how-to-print-on-a-powder-coated-sheet_30178/). You shouldnt use a metal scraper, so a design can be printed from [PrusaPrinters](https://www.prusaprinters.org/prints/28337-scraper-for-build-plate-version-2)
 
 ## Octoprint ##
-See this useful [vid](https://www.youtube.com/watch?v=HBd0olxI-No)
+See this useful video.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HBd0olxI-No" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Upgrades ##
 * [MK3s+ upgrade kit](https://shop.prusa3d.com/en/original-prusa-i3-mk3s/1390-original-prusa-i3-mk3-to-mk3s-upgrade-kit.html)
