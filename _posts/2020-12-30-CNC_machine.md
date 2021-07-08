@@ -29,7 +29,9 @@ How to [test the parallel port](https://youtu.be/uglCm_qsojk)
 ![Multiple limit Switches wiring](https://forum.shapeoko.com/download/file.php?id=1322)
 
 ### Linux CNC
-[This video](https://www.youtube.com/watch?v=F4xHCwtaS3w) is helpful in getting setup with [Linux CNC](https://linuxcnc.org/docs/2.8/html/)
+[Linux CNC](https://linuxcnc.org/docs/2.8/html/) is great.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F4xHCwtaS3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I got a result of 26125 ns on the base thread from the Linux latency test.
 
