@@ -38,7 +38,11 @@ I got a result of 26125 ns on the base thread from the Linux latency test.
 This [steps per mm calculator](https://blog.prusaprinters.org/calculator_3416/#stepspermmlead) is useful for configuring LinuxCnc.
 
 ### CAD
-I use Solidworks, an alternative might be [freecad](https://www.freecadweb.org/), since it has CAM built in. Fusion360 also has built in CAM, apparently. [Onshape](https://www.onshape.com/en/products/free) looks like a good option, it has a free version for openSource hobbyists and integrates with [kiri](https://www.youtube.com/watch?v=AbbZjj5FMGE).
+I use Solidworks, an alternative might be [freecad](https://www.freecadweb.org/), since it has CAM built in. Fusion360 also has built in CAM, apparently. 
+
+[Onshape](https://www.onshape.com/en/products/free) looks like a good option, it has a free version for openSource hobbyists and integrates with [kiri](https://www.youtube.com/watch?v=AbbZjj5FMGE).
+
+![Onshape example image](https://www.onshape.com/global-assets/img/approved-product-images/features/features_1800x1013.jpg)
 
 ### CAM
 CAM programs take your CAD model and, together with information such as bit size, material being cut, etc, use it to create g-code. CAM is probably the biggest issue in this whole workflow. There is a distinct lack of options. There is a [wiki](https://wiki.shapeoko.com/index.php/CAM) which has some potential options. This [toolchain wizard](https://sienci.com/dmx-longmill/choosing-software/) is a helpful tool for some of the options.
