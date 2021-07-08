@@ -44,7 +44,12 @@ CAM programs take your CAD model and, together with information such as bit size
 From my reading, the options are, in order of preference below:
 
 #### 2D 
-* [CAMLAB](http://camlab.sienci.com/camlab) and [Kiri](https://grid.space/kiri/), some [starter tutorial](https://www.youtube.com/watch?v=KDhMujKX1QQ) - Free
+* [CAMLAB](http://camlab.sienci.com/camlab) and [Kiri](https://grid.space/kiri/), a [starter tutorial](https://www.youtube.com/watch?v=KDhMujKX1QQ) - Free
+
+Kiri is actually very cool and supports, 3d printing, laser cutting and cnc routing!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KDhMujKX1QQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * [ESTLCAM](https://www.estlcam.de/index.php) - $59, but you can download an [older version](https://www.estlcam.de/changelog.php)
 * [bCNC](https://github.com/vlachoudis/bCNC) - free
 * [DXF2Gcode](https://sourceforge.net/projects/dxf2gcode/) - Free!
@@ -93,7 +98,11 @@ Noise, dust, frustration! Not to be understestimated! Making something stiff, sq
 To be honest, unless you already have access to precision tools, it may be better to build your own lasercutter or plasma cutter instead. In order of preference:
 
 * Cast from [epoxy granite](https://youtu.be/4aBVAbfxLJw?t=491) - at least this allows for taking your time making a mould and making sure its all square. Once its set, no take backsies though! [Here](https://youtu.be/2woA1BxZ7Pg) and [here](https://www.model-engineer.co.uk/forums/postings.asp?th=139042). Will also need quality components.
+
 ![Example cast one](https://forum.strojirenstvi.cz/download/file.php?id=33154&mode=view)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4aBVAbfxLJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Weld a steel frame. You will need to spend much time grinding and lapping to make it flat and much time making it square. Will probably require [granite parallels](https://www.starrett.com/category/precision-measuring-tools/granite-parallels/130207#currentPage=1&displayMode=grid&itemsPerPage=12&sortBy=wp/asc)
 * Aluminium extrusion frame - these are the most accessible and there are [plenty designs](https://openbuilds.com/) out there. The few which I have tried have been almost commically flexible when milling material, so design needs to be bulletProof. Perhaps, these designs are worth considering: [here](https://wikifactory.com/+mekanika/mekanika-cnc-router) and [here](https://bulkman3d.com/product/queenbee-pro-cnc-machine-mechanical-kit-upgrade-kit/) or [here](https://gitlab.cba.mit.edu/jakeread/clank)
 
