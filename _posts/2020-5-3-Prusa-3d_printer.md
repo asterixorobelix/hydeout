@@ -16,5 +16,13 @@ In the end, what seemed to help the most was changing settings in the [PrusaSlic
 
 ![example first layers](https://forum.prusaprinters.org/wp-content/uploads/attachments/4570-22992-20170116-223130.jpg)
 
+## Textured sheet ##
+I got the [Textured powder coated sheet](https://help.prusa3d.com/en/article/textured-steel-sheet_196534), which can make the first layer look better. Advice on how to use it is [here](https://blog.prusaprinters.org/how-to-print-on-a-powder-coated-sheet_30178/). You shouldnt use a metal scraper, so a design can be printed from [PrusaPrinters](https://www.prusaprinters.org/prints/28337-scraper-for-build-plate-version-2)
+
 ## Octoprint ##
 See this useful [vid](https://www.youtube.com/watch?v=HBd0olxI-No)
+
+## Upgrades ##
+* [MK3s+ upgrade kit](https://shop.prusa3d.com/en/original-prusa-i3-mk3s/1390-original-prusa-i3-mk3-to-mk3s-upgrade-kit.html)
+* A [titanium heatbreak](https://www.diyelectronics.co.za/store/heatbreaks/2545-e3d-v6-175mm-titanium-heat-break.html) made a big difference.
+* It might be worthwhile adding other [bearings](https://www.igus.co.uk/product/1185?artNr=RJZM-01-05) for a quieter printer, as discussed [here](https://www.reddit.com/r/3Dprinting/comments/66je8v/prusa_i3_mk2_with_igus_drylin_bearings/), but you might need to print a [modified part](https://www.thingiverse.com/thing:2813978) for more clearance for the bearings. However, some [people disagree](https://toms3d.org/2016/06/07/should-you-be-using-igus-polymer-bushings/).
