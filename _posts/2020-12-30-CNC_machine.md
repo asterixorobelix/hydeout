@@ -4,7 +4,6 @@ title: CNC machine
 tags: CNC hardware electronics
 category: Machines
 ---
-![Writing Image](https://drive.google.com/uc?export=view&id=17JBbc0t2IA4Nqgqf68PRvaYJb4fYev4o)
 
 ### Wiring
 I've been struggling to work out the wiring for the [TB6560 stepper motor driver](https://www.diyelectronics.co.za/store/stepper-motor-drivers/1393-tb6560-stepper-motor-driver.html) and the [Mach3 parallel port breakout board](http://www.communica.co.za/catalog/Details/P3942944907).
@@ -20,7 +19,8 @@ How to wire up the extras
 How to wire up the TB6560 stepper driver
 ![TB6560](https://drive.google.com/uc?export=view&id=0B822K1X9crfFMjRSX0hLY0d1NEE)
 
-About the [breakout board](https://youtu.be/0D2uYMVrglw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0D2uYMVrglw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 How to [test the parallel port](https://youtu.be/uglCm_qsojk)
 
 #### Limit Switches
@@ -110,7 +110,20 @@ To be honest, unless you already have access to precision tools, it may be bette
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4aBVAbfxLJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Weld a steel frame. You will need to spend much time grinding and lapping to make it flat and much time making it square. Will probably require [granite parallels](https://www.starrett.com/category/precision-measuring-tools/granite-parallels/130207#currentPage=1&displayMode=grid&itemsPerPage=12&sortBy=wp/asc)
+
 * Aluminium extrusion frame - these are the most accessible and there are [plenty designs](https://openbuilds.com/) out there. The few which I have tried have been almost commically flexible when milling material, so design needs to be bulletProof. Perhaps, these designs are worth considering: [here](https://wikifactory.com/+mekanika/mekanika-cnc-router) and [here](https://bulkman3d.com/product/queenbee-pro-cnc-machine-mechanical-kit-upgrade-kit/) or [here](https://gitlab.cba.mit.edu/jakeread/clank)
+
+### Flatness
+It is important to get everything as flat as possible. [Epoxy levelling](https://www.cnczone.com/forums/diy-cnc-router-table-machines/349506-cnc.html) seems like a useful approach in a diy setting.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FDrcpnVUcEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ebc7tiAAEZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Squareness
+[granite parallels](https://www.starrett.com/category/precision-measuring-tools/granite-parallels/130207#currentPage=1&displayMode=grid&itemsPerPage=12&sortBy=wp/asc)
+
+![Granite parallel](https://images.starrett.com/is/image/Starrett/Parallels_ecUSp1)
 
 ### Dust Shoe
 Milling is extremely messy. A dust shoe is a necessity and a split one seems like a good idea.
