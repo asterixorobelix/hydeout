@@ -28,5 +28,6 @@ See this useful video.
 * [MK3s+ upgrade kit](https://shop.prusa3d.com/en/original-prusa-i3-mk3s/1390-original-prusa-i3-mk3-to-mk3s-upgrade-kit.html)
 * A [titanium heatbreak](https://www.diyelectronics.co.za/store/heatbreaks/2545-e3d-v6-175mm-titanium-heat-break.html) made a big difference.
 * It might be worthwhile adding other [bearings](https://www.igus.co.uk/product/1185?artNr=RJZM-01-05) for a quieter printer, as discussed [here](https://www.reddit.com/r/3Dprinting/comments/66je8v/prusa_i3_mk2_with_igus_drylin_bearings/), but you might need to print a [modified part](https://www.thingiverse.com/thing:2813978) for more clearance for the bearings. However, some [people disagree](https://toms3d.org/2016/06/07/should-you-be-using-igus-polymer-bushings/).
+* [Reddit post](https://www.reddit.com/r/prusa3d/comments/bvk9kd/comprehensive_guide_on_how_to_modify_and_upgrade/)
 * Printing [sideboxes](https://www.prusaprinters.org/prints/974-prusa-mk3-sideboxes-for-some-tools) and adding weight to them helped massively with the print quality too.
 ![sidebox](https://media.prusaprinters.org/media/prints/974/stls/6300_051c89d6-57d8-4850-ba19-3f354685f819/thumbs/inside/1280x960/png/mk3-sidebox_preview.webp)
