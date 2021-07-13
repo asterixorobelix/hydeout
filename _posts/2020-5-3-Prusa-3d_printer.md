@@ -31,3 +31,7 @@ See this useful video.
 * [Reddit post](https://www.reddit.com/r/prusa3d/comments/bvk9kd/comprehensive_guide_on_how_to_modify_and_upgrade/)
 * Printing [sideboxes](https://www.prusaprinters.org/prints/974-prusa-mk3-sideboxes-for-some-tools) and adding weight to them helped massively with the print quality too.
 ![sidebox](https://media.prusaprinters.org/media/prints/974/stls/6300_051c89d6-57d8-4850-ba19-3f354685f819/thumbs/inside/1280x960/png/mk3-sidebox_preview.webp)
+* The [Bear upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade) seems well worth doing
+![Bear image](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/extra/photos/frame_01_900px.jpg?raw=true)
+* My collection of [worthwhile mods on Prusa Printers](https://www.prusaprinters.org/social/144217-asterixorobelix/collections/63688) and others on [Thingiverse](https://www.thingiverse.com/asterixorobelix/collections/printer-mods)
+* Epoxy levelling everywhere, just be careful of the miniscus which forms at the edges.
