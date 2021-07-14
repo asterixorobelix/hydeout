@@ -136,6 +136,12 @@ More [info](https://www.cnczone.com/forums/uncategorised-metalworking-machines/3
 
 With more details [here](http://maxmali.com/ripper-the-different-cnc/)
 
+* Full Granite
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ewU8zWnuE3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Some more info [here](https://www.cnczone.com/forums/epoxy-granite/394174-granite-base-router.html)
+
 ### Flatness
 It is important to get everything as flat as possible. [Epoxy levelling](https://www.cnczone.com/forums/diy-cnc-router-table-machines/349506-cnc.html) seems like a potential approach in a diy setting, although it also has [problems](https://www.cnczone.com/forums/diy-cnc-router-table-machines/341596-cnc.html), with [uneven temperatures and a meniscus](https://www.cnczone.com/forums/diy-cnc-router-table-machines/338054-forum.html) at each edge being some of the problems, you also cant move it, since twisting could [distort the epoxy](https://www.cnczone.com/forums/epoxy-granite/317156-linear-rails-bolted-steel-members-hard-epoxy.html). 
 
