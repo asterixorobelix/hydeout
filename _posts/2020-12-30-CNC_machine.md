@@ -124,7 +124,13 @@ To be honest, unless you already have access to precision tools, it may be bette
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nd19IBllD2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+This one below has been filled with epoxy granite.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bX2Eg18AzTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+More [info](https://www.cnczone.com/forums/uncategorised-metalworking-machines/327914-gantry-mill-precise-milling-aluminium.html) in the build log.
+
+![Filled with epoxy](https://www.cnczone.com/forums/attachment.php?attachmentid=354352&d=1489189948&thumb=1)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LiQaFeTy_eU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
