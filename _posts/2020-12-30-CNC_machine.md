@@ -113,7 +113,11 @@ To be honest, unless you already have access to precision tools, it may be bette
 
 * Weld a steel frame. You will need to spend much time grinding and lapping to make it flat and much time making it square. Will probably require [granite parallels](https://www.starrett.com/category/precision-measuring-tools/granite-parallels/130207#currentPage=1&displayMode=grid&itemsPerPage=12&sortBy=wp/asc)
 
-* Aluminium extrusion frame - these are the most accessible and there are [plenty designs](https://openbuilds.com/) out there. The few which I have tried have been almost commically flexible when milling material, so design needs to be bulletProof. Perhaps, these designs are worth considering: [here](https://wikifactory.com/+mekanika/mekanika-cnc-router) and [here](https://bulkman3d.com/product/queenbee-pro-cnc-machine-mechanical-kit-upgrade-kit/) or [here](https://gitlab.cba.mit.edu/jakeread/clank)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K9UA9ZRFwWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Aluminium extrusion frame - these are the most accessible and there are [plenty designs](https://openbuilds.com/) out there. The few which I have tried have been almost commically flexible when milling material, so design needs to be bulletProof. Perhaps, these designs are worth considering: [here](https://wikifactory.com/+mekanika/mekanika-cnc-router) and [here](https://bulkman3d.com/product/queenbee-pro-cnc-machine-mechanical-kit-upgrade-kit/) or [here](https://gitlab.cba.mit.edu/jakeread/clank) or [here](https://openbuilds.com/builds/granite-1-0.7661/)
+
+![Granite cnc](https://openbuilds.com/attachments/dscn2266-jpg.35070/)
 
 ### Flatness
 It is important to get everything as flat as possible. [Epoxy levelling](https://www.cnczone.com/forums/diy-cnc-router-table-machines/349506-cnc.html) seems like a useful approach in a diy setting.
