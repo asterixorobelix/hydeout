@@ -119,8 +119,19 @@ To be honest, unless you already have access to precision tools, it may be bette
 
 ![Granite cnc](https://openbuilds.com/attachments/dscn2266-jpg.35070/)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pKPKe19Dh9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nd19IBllD2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bX2Eg18AzTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LiQaFeTy_eU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+With more details [here](http://maxmali.com/ripper-the-different-cnc/)
+
 ### Flatness
-It is important to get everything as flat as possible. [Epoxy levelling](https://www.cnczone.com/forums/diy-cnc-router-table-machines/349506-cnc.html) seems like a useful approach in a diy setting.
+It is important to get everything as flat as possible. [Epoxy levelling](https://www.cnczone.com/forums/diy-cnc-router-table-machines/349506-cnc.html) seems like a potential approach in a diy setting, although it also has [problems](https://www.cnczone.com/forums/diy-cnc-router-table-machines/341596-cnc.html), with [uneven temperatures and a meniscus](https://www.cnczone.com/forums/diy-cnc-router-table-machines/338054-forum.html) at each edge being some of the problems, you also cant move it, since twisting could [distort the epoxy](https://www.cnczone.com/forums/epoxy-granite/317156-linear-rails-bolted-steel-members-hard-epoxy.html). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FDrcpnVUcEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -129,8 +140,10 @@ It is important to get everything as flat as possible. [Epoxy levelling](https:/
 Alternatively, use granite.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sFrVdoOhu1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Lapping is probably a better option, but time consuming.
+
 ### Squareness
-[granite parallels](https://www.starrett.com/category/precision-measuring-tools/granite-parallels/130207#currentPage=1&displayMode=grid&itemsPerPage=12&sortBy=wp/asc)
+[granite parallels](https://www.starrett.com/category/precision-measuring-tools/granite-parallels/130207#currentPage=1&displayMode=grid&itemsPerPage=12&sortBy=wp/asc) or granite table top offcuts in a pinch.
 
 ![Granite parallel](https://images.starrett.com/is/image/Starrett/Parallels_ecUSp1)
 
@@ -144,6 +157,9 @@ Alternatively, use granite.
 
 ### Leadscrew vs ballscrew
 [Hackaday discussion](https://hackaday.com/2018/11/13/mechanisms-lead-screws-and-ball-screws/)
+
+Cover:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iX00YX6wYsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Dust Shoe
 Milling is extremely messy. A dust shoe is a necessity and a split one seems like a good idea.
