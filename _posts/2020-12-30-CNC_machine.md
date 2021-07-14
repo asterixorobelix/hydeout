@@ -109,6 +109,8 @@ To be honest, unless you already have access to precision tools, it may be bette
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4aBVAbfxLJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Cn0WRXPKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Weld a steel frame. You will need to spend much time grinding and lapping to make it flat and much time making it square. Will probably require [granite parallels](https://www.starrett.com/category/precision-measuring-tools/granite-parallels/130207#currentPage=1&displayMode=grid&itemsPerPage=12&sortBy=wp/asc)
 
 * Aluminium extrusion frame - these are the most accessible and there are [plenty designs](https://openbuilds.com/) out there. The few which I have tried have been almost commically flexible when milling material, so design needs to be bulletProof. Perhaps, these designs are worth considering: [here](https://wikifactory.com/+mekanika/mekanika-cnc-router) and [here](https://bulkman3d.com/product/queenbee-pro-cnc-machine-mechanical-kit-upgrade-kit/) or [here](https://gitlab.cba.mit.edu/jakeread/clank)
@@ -120,10 +122,24 @@ It is important to get everything as flat as possible. [Epoxy levelling](https:/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ebc7tiAAEZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Alternatively, use granite.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sFrVdoOhu1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Squareness
 [granite parallels](https://www.starrett.com/category/precision-measuring-tools/granite-parallels/130207#currentPage=1&displayMode=grid&itemsPerPage=12&sortBy=wp/asc)
 
 ![Granite parallel](https://images.starrett.com/is/image/Starrett/Parallels_ecUSp1)
+
+### Rigidity
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EeEhS3zmnDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Filling aluminium profiles with steel bar and epoxy granite](http://diycnc.com.au/part-5-behemoth-x-axis/) also seems like a good solution.
+
+![diy cnc example](http://diycnc.com.au/wp-content/uploads/2017/10/20170930_160032-768x1032.jpg)
+
+### Leadscrew vs ballscrew
+[Hackaday discussion](https://hackaday.com/2018/11/13/mechanisms-lead-screws-and-ball-screws/)
 
 ### Dust Shoe
 Milling is extremely messy. A dust shoe is a necessity and a split one seems like a good idea.
