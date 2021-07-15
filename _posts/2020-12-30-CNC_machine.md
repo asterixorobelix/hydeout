@@ -154,6 +154,11 @@ Alternatively, use granite.
 
 Lapping is probably a better option, but time consuming.
 
+Explanation of how to make your own lapping plate below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rHmsQEAx16o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Explanation of the [whitworth method](https://ericweinhoffer.com/blog/2017/7/30/the-whitworth-three-plates-method)
+
 ### Squareness
 [granite parallels](https://www.starrett.com/category/precision-measuring-tools/granite-parallels/130207#currentPage=1&displayMode=grid&itemsPerPage=12&sortBy=wp/asc) or granite table top offcuts in a pinch.
 
