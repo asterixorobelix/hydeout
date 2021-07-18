@@ -101,6 +101,11 @@ Expensive, but at least they do the job, some include software for toolchain fro
 #### Build
 Noise, dust, frustration! Not to be understestimated! Making something stiff, square and repeatable is not a small task. The smaller, the better here; both for stiffness and to build an enclosure. 
 
+##### Fixed vs moving gantry
+
+[Decide whether a fixed or moving gantry is better](https://www.cnczone.com/forums/diy-cnc-router-table-machines/209352-fixed-gantry-vs-moving-gantry.html), considering rigidity and squareness, as well as [size constraints](https://www.cnczone.com/forums/diy-cnc-router-table-machines/131290-cnc.html).
+
+##### Construction methods
 To be honest, unless you already have access to precision tools, it may be better to build your own lasercutter or plasma cutter instead. In order of preference:
 
 * Cast from [epoxy granite](https://youtu.be/4aBVAbfxLJw?t=491) - at least this allows for taking your time making a mould and making sure its all square. Once its set, no take backsies though! [Here](https://youtu.be/2woA1BxZ7Pg) and [here](https://www.model-engineer.co.uk/forums/postings.asp?th=139042). Will also need quality components.
